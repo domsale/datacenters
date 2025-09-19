@@ -1,24 +1,52 @@
 ---
 layout: page
-title: Policy
-permalink: /policy/
-description: "Policy"
+title: Strategy Playbook
+permalink: /strategy/
+description: "A practical playbook for turning everyday spending into high-value loyalty rewards."
 ---
 
-## Policy 
+## Strategy Playbook
 
-As of March DD, 2016, FDCCI is superseded by the Data Center Optimization Initiative (DCOI) established in this memorandum.
+Whether you are brand new to loyalty programs or trying to push an already-strong setup even further, this playbook walks through the decisions that consistently unlock the most value.
 
-The DCOI, as described in this memorandum, requires agencies to develop and report on data center strategies to consolidate inefficient infrastructure, optimize existing facilities, achieve cost savings, and transition to more efficient infrastructure, such as cloud services and inter-agency shared services.<sup id="fnr4"><a href="#fn4">4</a></sup>
+### 1. Map your wallet and goals
 
-The requirements in this memorandum apply to all CFO Act agencies,<sup id="fnr5"><a href="#fn5">5</a></sup> including the Department of Defense.<sup id="fnr6"><a href="#fn6">6</a></sup>
+- **Inventory everything.** List every open credit card, the points currency it earns, the annual fee, and the renewal month. The Card Companion app keeps this info front-and-center so you can spot overlaps.
+- **Define two redemption goals.** One near-term (within 6 months) and one aspirational (12–24 months). Knowing what you are aiming for helps you assign an actual dollar value to each point.
+- **Set valuation guardrails.** Use the [Point Valuation Benchmarks](/valuations/) page to set realistic cents-per-point estimates in the app. Update them whenever your goals change.
 
-### Footnotes
+### 2. Engineer your earning strategy
 
-<ul style="list-style-type:none">
-<li id="fn4"><sup>4</sup>Federal Information Technology Shared Services Strategy, May 2, 2012, https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/shared_services_strategy.pdf<a href="#fnr4">&#8617;</a></li>
+- **Layer category bonuses.** Prioritize a primary card for each major spending category (groceries, dining, travel, online shopping, utilities). If a category is uncovered, look at no-fee cards or limited-time offers to fill the gap.
+- **Stack with merchant offers.** Sync Amex Offers, Chase Offers, or shopping portals to the card you plan to use. Add a note in the Card Companion reminders field so you remember to trigger it.
+- **Mind the annual fee clock.** Two months before any annual fee posts, check whether the benefits you received (statement credits, elite nights, lounge visits) justify renewing.
 
-<li id="fn5"><sup>5</sup>See Chief Financial Officers Act of 1990, Pub. L. No. 101–576.<a href="#fnr5">&#8617;</a></li>
+### 3. Optimize cash flow and credit health
 
-<li id="fn6"><sup>6</sup>Per Sec. 834(b)(1)(C) of the FY2015 NDAA, the Department of Defense may submit to OMB, in lieu of the Strategic Plan described in this memorandum, the defense-wide plan and cost savings report required under sections 2867(b)(2) and 2867(d), respectively, of the FY2012 NDAA.  If submitting such plans and reports in lieu of the Strategic Plan, DOD shall ensure all information required by the Strategic Plan is included in the submitted plans and reports.<a href="#fnr6">&#8617;</a></li>
-</ul>
+- **Automate payment safeguards.** Set up autopay for at least the minimum due and use the tracking routines page to schedule weekly balance reviews.
+- **Keep utilization friendly.** If you are planning a large purchase, queue it in the app and pay it early if it would spike utilization above 30% on a single card.
+- **Rotate sign-up bonuses.** When adding a new card, pause other applications for 90 days to preserve approval odds. Track welcome offer deadlines next to the card in Card Companion.
+
+### 4. Plan redemptions before swiping
+
+- **Reverse-engineer travel.** Price your goal trip in cash and in points across two to three programs. If the cents-per-point is below your personal floor, pay cash and save the points for a better deal.
+- **Compare transfer partners.** For flexible currencies (Amex Membership Rewards, Chase Ultimate Rewards, Citi ThankYou), log the best partner for your goal. Include any transfer bonuses and expiration dates in the card notes.
+- **Use downgrade paths.** When a premium card no longer fits, consider downgrading to a no-fee version so your points remain alive and your credit history stays intact.
+
+### 5. Conduct quarterly tune-ups
+
+| Review Item | Why it matters | Questions to ask |
+|-------------|----------------|------------------|
+| Points balance by currency | Ensures you are not hoarding a devaluing currency | Did any balance grow faster than you can redeem? |
+| Category coverage | Protects you from earning only 1× on big spend | Are there new cards or promos to plug category gaps? |
+| Upcoming travel plans | Syncs bookings with transfer partner timelines | Do you need to initiate a transfer or seat hold? |
+| Credit score + utilization | Keeps future approvals healthy | Are balances reporting high or are there errors to dispute? |
+
+### Putting it into action
+
+1. Spend 15 minutes loading your current wallet into the app.
+2. Add the next 8–10 planned purchases—even if they are rough estimates.
+3. Review the insight list and move the top three action items into your personal task manager.
+4. Update valuations and notes after every major redemption to keep projections accurate.
+
+By continually iterating on this loop, you ensure every swipe moves you closer to the trips, experiences, or financial buffer you actually care about.
