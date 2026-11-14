@@ -20,9 +20,9 @@ exclude:
 - LICENSE.md
 
 # Site metadata
-name: "Data Center Optimization Initiative (DCOI)"
-description: "Data Center Optimization Initiative (DCOI)"
-baseurl: https://whitehouse.github.io/datacenters
+name: "Card Companion"
+description: "Tools and guides to maximize the value of every loyalty point in your wallet."
+baseurl: ""
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/datacenters/
 #baseurl: /datacenters/
 
@@ -36,22 +36,14 @@ branch: gh-pages
 navigation:
 - text: Home
   url: /
-- text: Policy
-  url: /policy/
-- text: Leadership and Responsibilities
-  url: /responsibilities/
-- text: Transition to Cloud and Data Center Shared Services
-  url: /transition/
-- text: Optimization of Physical Data Centers
-  url: /optimization/
-- text: Metric Target Values
-  url: /metrictarget/
-- text: Reporting
-  url: /reporting/
-- text: Data Center Optimization Transparency
-  url: /transparency/
-- text: Community Support
-  url: /community/
+- text: Strategy Playbook
+  url: /strategy/
+- text: Point Valuation Benchmarks
+  url: /valuations/
+- text: Tracking Routines
+  url: /tracking/
+- text: FAQ & Resources
+  url: /faq/
 
 # sass
 sass:

@@ -1,43 +1,47 @@
 ---
 layout: page
-title: Reporting
-permalink: /reporting/
-description: "Reporting"
+title: Tracking Routines
+permalink: /tracking/
+description: "Lightweight routines that keep your rewards strategy organized and stress-free."
 ---
-## Reporting
+## Tracking Routines
 
-### Compliance Measurement
+The Card Companion app stores your data locally, but consistent habits keep it accurate. Use the cadence below to build a repeatable workflow.
 
-Data will be collected quarterly on an agency-by-agency basis through the OMB OFCIO IDC, as follows:
+### Weekly 10-minute sweep
 
-1. Agencies must continue to maintain complete inventories of all data center facilities, closure/consolidation plans, and properties of each facility owned, operated, or maintained by or on behalf of the agency.
-2. Agencies must include progress toward meeting all optimization metric target values.<sup id="fnr31"><a href="#fn31">31</a></sup>
-3. Agencies must evaluate the costs of operating and maintaining current facilities and develop year-by-year targets for cost savings and cost avoidance due to consolidation and optimization for fiscal years 2016 through 2018. Agencies shall report all realized cost savings and cost avoidance under the DCOI.
+| Task | Why it matters | Tool |
+|------|----------------|------|
+| Reconcile posted transactions | Ensures bonuses are tracking correctly and balances stay current | Check the card issuer’s mobile app or export to a spreadsheet. |
+| Update the app with new spend | Keeps projected value from upcoming purchases realistic | Add each completed purchase to the app so you can compare projection vs. reality. |
+| Review statement credits | Prevents forgotten dining, rideshare, or airline incidental credits from expiring | Track expirations in the card reminder field. |
 
-### Annual Strategic Plan
+### Monthly checkpoint
 
-In accordance with FITARA,<sup id="fnr32"><a href="#fn32">32</a></sup> beginning in fiscal year 2016, each agency head shall annually publish a Data Center Consolidation and Optimization Strategic Plan ("Strategic Plan") to define the agency's data center strategy for the subsequent three years.
+1. **Snapshot scores:** Record your credit score and utilization (total balance / total limit). A quick glance highlights whether it is safe to pursue a new card.
+2. **Refresh valuations:** If a program announced a devaluation or transfer bonus, adjust the cents-per-point value in Card Companion.
+3. **Audit subscriptions:** Confirm that recurring charges are hitting the optimal card. If a category bonus ended, reassign it.
 
-This strategy must include (at minimum):
+### Quarterly deep dive
 
-1. Planned and achieved performance levels for each optimization metric, by year;
-2. Planned and achieved closures, by year;
-3. An explanation for areas in which achieved optimization metrics and closures did not meet those planned in a previous Strategic Plan;
-4. A description of the steps the agency is taking or will take to achieve its future planned performance levels and closure goals;
-5. Year-by-year calculations of target and actual agency-wide spending and cost savings on data centers from FY2016-FY2018, including:
-  - A description of any initial costs for data center consolidation and optimization; and
-  - Life cycle cost savings and other improvements (including those beyond FY2018, if applicable);
-6. Historical costs and cost savings and cost avoidances due to data center consolidation and optimization through FY2015; and
-7. A statement from the agency CIO stating whether the agency has complied with all reporting requirements in this memorandum and the data center requirements of FITARA. If the agency has not complied with all reporting requirements, the agency must provide a statement describing the reasons for not complying.
+- **Export your data:** Use the “Print to PDF” or screenshot function on Card Companion to save a snapshot of balances and planned purchases.
+- **Compare plan vs. outcome:** For each purchase logged in the app, note whether you used the recommended card and what value you actually earned.
+- **Decide on product changes:** Review cards with high annual fees and low usage. Plan downgrades, product changes, or closures 45 days before the next fee posts.
 
-Agencies are required to publish their Strategic Plans in a machine-readable JSON format at agency.gov/digitalstrategy under a section entitled, "Data Center Optimization Initiative Strategic Plans," within 60 days of the issuance of this memorandum.  OMB will provide instructions to agencies, including a schema, at management.cio.gov within 30 days of the issuance of this memorandum.
+### Annual strategy reset
 
-The DCOI Strategic Plan will replace existing FDCCI requirements for consolidation plans. Data center consolidation and optimization efforts will continue to be a part of PortfolioStat reviews.
+1. Update your travel or cashback goals for the next 12 months.
+2. Rebalance valuations based on those goals—premium cabin travelers can justify higher valuations than domestic economy flyers.
+3. Create a pipeline of potential new cards with welcome offers that align with your goals. Track 5/24 or similar issuer rules alongside the application date.
 
-### Footnotes
+### Templates & exports
 
-<ul style="list-style-type:none">
-<li id="fn31"><sup>31</sup>Note: Agencies participating as a tenant in an inter-agency shared services provider data center are not required to report metering and PUE statistics to OMB. The provider will report this data to OMB.<a href="#fnr31">&#8617;</a></li>
+| Template | Purpose | Download |
+|----------|---------|----------|
+| Points inventory spreadsheet | Track historical balances and redemptions across all cards. | [Google Sheets template](https://docs.google.com/spreadsheets/d/1cPsample) |
+| Application timeline | Monitor issuer rules and cooling-off periods. | [Notion database example](https://www.notion.so) |
+| Redemption journal | Capture cost vs. value for each award booking. | [Printable PDF tracker](https://example.com) |
 
-<li id="fn32"><sup>32</sup>See FITARA Section 834(b)(1)(A)-(E).<a href="#fnr32">&#8617;</a></li>
-</ul>
+> **Tip:** If you prefer spreadsheets, export data from Card Companion by copying the table contents into Excel or Google Sheets. Sort by category or card to match the templates above.
+
+Consistency beats perfection. Even if you miss a week, pick back up with the weekly sweep—your points will keep working as hard as you do.
